@@ -1,0 +1,6 @@
+polars
+jupyter
+catboost
+haversine
+pyarrow
+scikit-learn
